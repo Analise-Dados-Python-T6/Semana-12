@@ -1,0 +1,492 @@
+id_venda;sequencia_item;produto;categoria;quantidade;preco_unitario
+V0001;1;Sanduíche Natural;Lanches;2;23,50
+V0001;2;Limonada;Bebidas;1;15,50
+V0001;3;Torta de Limão;Doces;1;17,50
+V0002;1;Brownie;Doces;3;12,50
+V0002;2;Torta de Limão;Doces;2;9,50
+V0003;1;Mocha;Café;4;18,00
+V0003;2;Espresso;Café;3;11,00
+V0003;3;Chá Gelado;Bebidas;3;11,50
+V0003;4;Suco de Laranja;Bebidas;4;18,00
+V0003;5;Latte;Café;2;13,50
+V0004;1;Cappuccino;Café;3;16,00
+V0004;2;Latte;Café;2;17,50
+V0005;1;Água com Gás;Bebidas;1;11,50
+V0005;2;Chá Gelado;Bebidas;4;17,00
+V0005;3;Água com Gás;Bebidas;4;18,00
+V0006;1;Mocha;Café;1;14,00
+V0006;2;Espresso;Café;3;10,50
+V0006;3;Pão de Queijo;Lanches;2;29,00
+V0006;4;Bolo de Cenoura;Doces;3;16,00
+V0007;1;Mocha;Café;3;19,00
+V0007;2;Cappuccino;Café;3;9,00
+V0007;3;Torrada;Lanches;1;26,00
+V0007;4;Espresso;Café;1;13,50
+V0007;5;Brownie;Doces;3;8,00
+V0007;6;Mocha;Café;4;12,50
+V0007;7;Suco de Laranja;Bebidas;4;9,50
+V0007;8;Café Coado;Café;2;10,50
+V0008;1;Brownie;Doces;3;18,50
+V0008;2;Latte;Café;4;18,50
+V0008;3;Grão Moído 1kg;Grãos;1;73,00
+V0008;4;Sanduíche Natural;Lanches;2;26,50
+V0009;1;Bolo de Cenoura;Doces;1;17,50
+V0009;2;Cookie;Doces;4;17,00
+V0010;1;Cappuccino;Café;1;16,50
+V0010;2;Pão de Queijo;Lanches;3;14,50
+V0011;1;Mocha;Café;4;17,50
+V0011;2;Latte;Café;2;11,50
+V0011;3;Sanduíche Natural;Lanches;1;19,50
+V0012;1;Café Coado;Café;2;14,00
+V0013;1;Grão Especial 250g;Grãos;1;74,50
+V0014;1;Mocha;Café;4;9,50
+V0014;2;Cookie;Doces;1;8,00
+V0014;3;Torrada;Lanches;1;21,00
+V0015;1;Limonada;Bebidas;4;10,50
+V0015;2;Torta de Limão;Doces;4;16,50
+V0015;3;Torta de Limão;Doces;4;9,50
+V0015;4;Grão Moído 1kg;Grãos;2;58,00
+V0015;5;Bolo de Cenoura;Doces;1;9,00
+V0015;6;Torrada;Lanches;2;20,00
+V0016;1;Limonada;Bebidas;3;9,50
+V0016;2;Brownie;Doces;2;14,00
+V0016;3;Latte;Café;3;11,50
+V0017;1;Água com Gás;Bebidas;4;12,00
+V0017;2;Água com Gás;Bebidas;2;15,00
+V0018;1;Cappuccino;Café;2;12,00
+V0019;1;Latte;Café;1;15,50
+V0019;2;Torta de Limão;Doces;4;16,50
+V0020;1;Bolo de Cenoura;Doces;2;13,00
+V0020;2;Latte;Café;3;12,50
+V0021;1;Café Coado;Café;4;13,00
+V0021;2;Croissant;Lanches;3;21,50
+V0021;3;Café Coado;Café;1;15,00
+V0021;4;Latte;Café;3;19,00
+V0021;5;Torrada;Lanches;2;18,00
+V0021;6;Cappuccino;Café;1;19,00
+V0022;1;Limonada;Bebidas;4;12,50
+V0022;2;Limonada;Bebidas;2;16,50
+V0022;3;Chá Gelado;Bebidas;3;8,00
+V0023;1;Sanduíche Natural;Lanches;3;20,00
+V0023;2;Pão de Queijo;Lanches;2;20,50
+V0023;3;Espresso;Café;1;15,50
+V0024;1;Torrada;Lanches;1;21,00
+V0024;2;Cookie;Doces;2;17,00
+V0025;1;Limonada;Bebidas;4;8,00
+V0025;2;Torrada;Lanches;2;24,00
+V0025;3;Água com Gás;Bebidas;1;8,00
+V0026;1;Chá Gelado;Bebidas;1;18,00
+V0026;2;Torta de Limão;Doces;1;15,00
+V0026;3;Suco de Laranja;Bebidas;2;9,00
+V0027;1;Chá Gelado;Bebidas;1;10,00
+V0027;2;Cappuccino;Café;3;18,50
+V0027;3;Café Coado;Café;3;12,50
+V0028;1;Torrada;Lanches;3;27,00
+V0028;2;Água com Gás;Bebidas;4;13,50
+V0028;3;Cookie;Doces;3;10,50
+V0028;4;Mocha;Café;4;14,50
+V0028;5;Brownie;Doces;2;11,00
+V0028;6;Cookie;Doces;4;18,00
+V0028;7;Cookie;Doces;2;16,50
+V0029;1;Bolo de Cenoura;Doces;2;16,50
+V0029;2;Torta de Limão;Doces;3;10,00
+V0030;1;Grão Torrado 500g;Grãos;1;36,50
+V0030;2;Mocha;Café;4;18,50
+V0030;3;Brownie;Doces;2;15,00
+V0030;4;Torta de Limão;Doces;2;17,00
+V0030;5;Chá Gelado;Bebidas;4;11,00
+V0031;1;Mocha;Café;4;16,50
+V0031;2;Mocha;Café;1;12,00
+V0031;3;Café Coado;Café;1;16,50
+V0032;1;Grão Moído 1kg;Grãos;2;51,50
+V0033;1;Brownie;Doces;3;18,00
+V0033;2;Limonada;Bebidas;3;12,50
+V0033;3;Latte;Café;1;18,50
+V0034;1;Brownie;Doces;1;10,00
+V0034;2;Pão de Queijo;Lanches;2;24,00
+V0034;3;Espresso;Café;4;13,50
+V0035;1;Pão de Queijo;Lanches;1;19,00
+V0035;2;Torrada;Lanches;1;24,00
+V0035;3;Água com Gás;Bebidas;1;18,00
+V0035;4;Espresso;Café;4;14,00
+V0035;5;Latte;Café;3;15,00
+V0036;1;Água com Gás;Bebidas;3;11,00
+V0037;1;Bolo de Cenoura;Doces;1;9,00
+V0037;2;Sanduíche Natural;Lanches;2;21,50
+V0037;3;Grão Torrado 500g;Grãos;2;65,00
+V0038;1;Bolo de Cenoura;Doces;2;11,50
+V0038;2;Mocha;Café;4;18,00
+V0039;1;Croissant;Lanches;2;19,00
+V0039;2;Sanduíche Natural;Lanches;3;17,50
+V0040;1;Café Coado;Café;2;12,00
+V0040;2;Cappuccino;Café;2;17,50
+V0040;3;Croissant;Lanches;1;16,50
+V0040;4;Latte;Café;4;15,00
+V0041;1;Cookie;Doces;1;8,00
+V0042;1;Suco de Laranja;Bebidas;3;8,00
+V0042;2;Mocha;Café;4;10,50
+V0042;3;Croissant;Lanches;1;25,00
+V0042;4;Grão Especial 250g;Grãos;2;49,50
+V0042;5;Espresso;Café;1;12,00
+V0043;1;Suco de Laranja;Bebidas;4;11,50
+V0043;2;Torta de Limão;Doces;2;9,00
+V0044;1;Grão Especial 250g;Grãos;1;45,00
+V0044;2;Croissant;Lanches;2;30,00
+V0044;3;Grão Torrado 500g;Grãos;2;59,50
+V0044;4;Água com Gás;Bebidas;1;13,50
+V0045;1;Mocha;Café;4;14,50
+V0045;2;Chá Gelado;Bebidas;3;17,00
+V0046;1;Café Coado;Café;4;15,50
+V0046;2;Chá Gelado;Bebidas;3;12,50
+V0046;3;Cookie;Doces;2;12,00
+V0046;4;Mocha;Café;4;18,00
+V0046;5;Café Coado;Café;4;18,50
+V0047;1;Cappuccino;Café;3;18,50
+V0047;2;Suco de Laranja;Bebidas;4;15,50
+V0047;3;Cappuccino;Café;1;13,00
+V0047;4;Mocha;Café;3;12,50
+V0048;1;Latte;Café;2;18,50
+V0048;2;Pão de Queijo;Lanches;1;18,00
+V0049;1;Chá Gelado;Bebidas;3;9,00
+V0049;2;Croissant;Lanches;3;27,00
+V0050;1;Torrada;Lanches;2;23,00
+V0050;2;Grão Torrado 500g;Grãos;1;71,50
+V0051;1;Grão Torrado 500g;Grãos;2;66,50
+V0051;2;Latte;Café;4;18,00
+V0051;3;Cookie;Doces;4;16,50
+V0052;1;Croissant;Lanches;1;23,00
+V0052;2;Grão Especial 250g;Grãos;2;60,00
+V0052;3;Bolo de Cenoura;Doces;3;15,50
+V0052;4;Pão de Queijo;Lanches;1;29,50
+V0052;5;Chá Gelado;Bebidas;4;15,50
+V0052;6;Brownie;Doces;1;15,00
+V0053;1;Grão Especial 250g;Grãos;1;69,50
+V0053;2;Limonada;Bebidas;1;11,00
+V0054;1;Torta de Limão;Doces;1;10,50
+V0054;2;Cappuccino;Café;4;12,00
+V0054;3;Chá Gelado;Bebidas;2;13,00
+V0055;1;Latte;Café;2;17,50
+V0055;2;Cappuccino;Café;3;9,50
+V0055;3;Sanduíche Natural;Lanches;1;30,00
+V0055;4;Chá Gelado;Bebidas;1;14,50
+V0055;5;Cookie;Doces;3;14,50
+V0056;1;Brownie;Doces;1;10,00
+V0056;2;Latte;Café;2;12,00
+V0056;3;Bolo de Cenoura;Doces;2;14,00
+V0057;1;Latte;Café;4;16,00
+V0057;2;Sanduíche Natural;Lanches;3;26,50
+V0057;3;Torta de Limão;Doces;3;11,50
+V0057;4;Grão Moído 1kg;Grãos;1;47,00
+V0058;1;Pão de Queijo;Lanches;3;27,00
+V0058;2;Torta de Limão;Doces;1;12,00
+V0058;3;Grão Moído 1kg;Grãos;1;51,00
+V0058;4;Espresso;Café;2;14,50
+V0058;5;Cookie;Doces;4;17,50
+V0058;6;Torta de Limão;Doces;1;9,00
+V0058;7;Pão de Queijo;Lanches;2;24,00
+V0059;1;Croissant;Lanches;2;16,50
+V0059;2;Água com Gás;Bebidas;1;17,00
+V0060;1;Cookie;Doces;2;17,50
+V0060;2;Cappuccino;Café;1;17,00
+V0060;3;Mocha;Café;3;18,00
+V0060;4;Bolo de Cenoura;Doces;1;15,00
+V0060;5;Espresso;Café;2;19,00
+V0061;1;Croissant;Lanches;2;18,50
+V0061;2;Cappuccino;Café;1;12,50
+V0061;3;Pão de Queijo;Lanches;2;19,50
+V0062;1;Chá Gelado;Bebidas;2;17,00
+V0062;2;Torrada;Lanches;1;16,50
+V0062;3;Torta de Limão;Doces;3;16,00
+V0063;1;Café Coado;Café;3;14,00
+V0063;2;Limonada;Bebidas;2;14,00
+V0063;3;Cappuccino;Café;2;11,00
+V0063;4;Torta de Limão;Doces;3;9,00
+V0063;5;Café Coado;Café;4;16,50
+V0063;6;Café Coado;Café;3;15,50
+V0063;7;Pão de Queijo;Lanches;2;21,00
+V0064;1;Pão de Queijo;Lanches;3;16,50
+V0064;2;Mocha;Café;4;18,00
+V0064;3;Cappuccino;Café;4;11,00
+V0065;1;Café Coado;Café;2;11,00
+V0065;2;Bolo de Cenoura;Doces;2;18,00
+V0065;3;Bolo de Cenoura;Doces;1;19,00
+V0065;4;Chá Gelado;Bebidas;3;18,00
+V0066;1;Cappuccino;Café;2;19,00
+V0066;2;Espresso;Café;1;11,00
+V0066;3;Latte;Café;2;16,50
+V0067;1;Limonada;Bebidas;4;16,50
+V0067;2;Grão Especial 250g;Grãos;1;49,00
+V0067;3;Torrada;Lanches;3;24,00
+V0067;4;Suco de Laranja;Bebidas;4;11,50
+V0067;5;Chá Gelado;Bebidas;4;13,50
+V0068;1;Latte;Café;4;9,00
+V0068;2;Café Coado;Café;2;15,00
+V0068;3;Grão Especial 250g;Grãos;1;35,50
+V0068;4;Croissant;Lanches;2;15,50
+V0069;1;Grão Torrado 500g;Grãos;6;50,00
+V0069;2;Grão Especial 250g;Grãos;4;45,50
+V0069;3;Cookie;Doces;30;9,00
+V0069;4;Sanduíche Natural;Lanches;25;14,00
+V0069;5;Espresso;Café;20;12,50
+V0069;6;Suco de Laranja;Bebidas;10;18,50
+V0070;1;Limonada;Bebidas;4;16,00
+V0070;2;Água com Gás;Bebidas;2;8,50
+V0070;3;Sanduíche Natural;Lanches;2;14,00
+V0071;1;Croissant;Lanches;1;16,00
+V0072;1;Cappuccino;Café;2;12,50
+V0072;2;Suco de Laranja;Bebidas;2;8,00
+V0072;3;Café Coado;Café;2;14,50
+V0072;4;Mocha;Café;1;16,00
+V0073;1;Chá Gelado;Bebidas;2;18,00
+V0074;1;Bolo de Cenoura;Doces;4;15,50
+V0074;2;Pão de Queijo;Lanches;3;25,00
+V0074;3;Mocha;Café;3;13,00
+V0075;1;Sanduíche Natural;Lanches;3;22,50
+V0075;2;Torrada;Lanches;1;22,00
+V0076;1;Grão Especial 250g;Grãos;1;44,00
+V0076;2;Cookie;Doces;4;8,50
+V0076;3;Cappuccino;Café;3;9,50
+V0076;4;Cappuccino;Café;1;17,50
+V0076;5;Grão Moído 1kg;Grãos;1;46,50
+V0077;1;Pão de Queijo;Lanches;3;14,00
+V0077;2;Croissant;Lanches;3;19,50
+V0077;3;Suco de Laranja;Bebidas;3;9,50
+V0078;1;Café Coado;Café;2;16,00
+V0078;2;Latte;Café;4;18,00
+V0078;3;Chá Gelado;Bebidas;1;9,00
+V0078;4;Latte;Café;2;19,00
+V0079;1;Cappuccino;Café;2;16,50
+V0080;1;Cookie;Doces;2;19,00
+V0080;2;Croissant;Lanches;3;26,50
+V0081;1;Torta de Limão;Doces;4;16,50
+V0081;2;Torrada;Lanches;2;26,00
+V0081;3;Torta de Limão;Doces;3;14,50
+V0081;4;Cappuccino;Café;2;10,00
+V0082;1;Café Coado;Café;1;17,50
+V0083;1;Croissant;Lanches;3;23,00
+V0083;2;Cappuccino;Café;1;11,00
+V0083;3;Cappuccino;Café;2;11,00
+V0083;4;Bolo de Cenoura;Doces;4;12,50
+V0083;5;Suco de Laranja;Bebidas;2;17,00
+V0083;6;Pão de Queijo;Lanches;2;23,00
+V0084;1;Pão de Queijo;Lanches;3;23,00
+V0084;2;Torta de Limão;Doces;2;8,00
+V0084;3;Mocha;Café;1;13,50
+V0085;1;Cookie;Doces;2;8,50
+V0085;2;Cookie;Doces;1;16,00
+V0085;3;Croissant;Lanches;2;17,00
+V0085;4;Água com Gás;Bebidas;3;11,50
+V0085;5;Cappuccino;Café;1;17,00
+V0085;6;Brownie;Doces;2;11,50
+V0086;1;Sanduíche Natural;Lanches;1;25,50
+V0086;2;Latte;Café;1;14,00
+V0086;3;Grão Especial 250g;Grãos;1;43,50
+V0086;4;Chá Gelado;Bebidas;3;14,50
+V0086;5;Suco de Laranja;Bebidas;4;10,50
+V0086;6;Croissant;Lanches;3;19,00
+V0087;1;Suco de Laranja;Bebidas;3;11,50
+V0088;1;Latte;Café;1;12,50
+V0088;2;Grão Torrado 500g;Grãos;1;35,50
+V0088;3;Brownie;Doces;3;8,50
+V0088;4;Espresso;Café;3;15,50
+V0089;1;Limonada;Bebidas;3;17,50
+V0089;2;Torrada;Lanches;1;22,00
+V0090;1;Grão Moído 1kg;Grãos;1;44,50
+V0090;2;Espresso;Café;3;11,50
+V0090;3;Grão Moído 1kg;Grãos;2;65,50
+V0090;4;Suco de Laranja;Bebidas;3;16,50
+V0090;5;Sanduíche Natural;Lanches;2;22,00
+V0091;1;Chá Gelado;Bebidas;3;8,50
+V0092;1;Brownie;Doces;4;12,50
+V0092;2;Torrada;Lanches;1;18,50
+V0092;3;Cappuccino;Café;3;11,00
+V0092;4;Torrada;Lanches;3;20,50
+V0093;1;Água com Gás;Bebidas;2;14,50
+V0093;2;Sanduíche Natural;Lanches;2;30,00
+V0093;3;Grão Moído 1kg;Grãos;1;50,50
+V0094;1;Brownie;Doces;3;14,00
+V0094;2;Água com Gás;Bebidas;2;15,50
+V0094;3;Mocha;Café;1;11,00
+V0094;4;Bolo de Cenoura;Doces;3;9,00
+V0094;5;Torta de Limão;Doces;4;12,00
+V0094;6;Espresso;Café;1;12,50
+V0094;7;Grão Especial 250g;Grãos;1;55,50
+V0095;1;Sanduíche Natural;Lanches;2;30,00
+V0095;2;Mocha;Café;1;11,00
+V0096;1;Brownie;Doces;3;8,00
+V0096;2;Brownie;Doces;3;9,00
+V0096;3;Cookie;Doces;1;14,50
+V0097;1;Bolo de Cenoura;Doces;3;11,50
+V0097;2;Brownie;Doces;3;17,00
+V0097;3;Latte;Café;1;14,00
+V0097;4;Água com Gás;Bebidas;2;12,00
+V0098;1;Limonada;Bebidas;4;8,50
+V0098;2;Mocha;Café;3;18,50
+V0099;1;Brownie;Doces;1;16,00
+V0099;2;Grão Moído 1kg;Grãos;1;62,50
+V0099;3;Pão de Queijo;Lanches;3;23,50
+V0099;4;Espresso;Café;1;16,50
+V0100;1;Espresso;Café;4;18,00
+V0100;2;Suco de Laranja;Bebidas;2;14,00
+V0100;3;Brownie;Doces;2;19,00
+V0100;4;Pão de Queijo;Lanches;2;22,50
+V0101;1;Torta de Limão;Doces;1;13,00
+V0101;2;Pão de Queijo;Lanches;2;24,50
+V0102;1;Bolo de Cenoura;Doces;3;18,50
+V0102;2;Latte;Café;3;9,00
+V0102;3;Chá Gelado;Bebidas;1;17,50
+V0102;4;Grão Moído 1kg;Grãos;2;64,00
+V0102;5;Mocha;Café;4;14,00
+V0103;1;Cappuccino;Café;3;9,00
+V0103;2;Água com Gás;Bebidas;1;16,50
+V0103;3;Cappuccino;Café;2;14,50
+V0104;1;Grão Moído 1kg;Grãos;1;36,50
+V0104;2;Latte;Café;4;16,00
+V0104;3;Mocha;Café;1;9,00
+V0104;4;Espresso;Café;2;12,00
+V0105;1;Mocha;Café;3;14,50
+V0105;2;Brownie;Doces;1;14,50
+V0105;3;Chá Gelado;Bebidas;1;17,00
+V0105;4;Torrada;Lanches;2;17,00
+V0106;1;Croissant;Lanches;1;22,00
+V0106;2;Pão de Queijo;Lanches;2;28,50
+V0106;3;Cookie;Doces;3;8,00
+V0107;1;Torta de Limão;Doces;2;9,50
+V0107;2;Chá Gelado;Bebidas;2;15,50
+V0108;1;Brownie;Doces;3;16,00
+V0108;2;Pão de Queijo;Lanches;1;18,00
+V0108;3;Espresso;Café;1;9,00
+V0109;1;Brownie;Doces;4;13,00
+V0109;2;Sanduíche Natural;Lanches;1;21,00
+V0110;1;Latte;Café;2;12,00
+V0110;2;Mocha;Café;4;16,00
+V0110;3;Sanduíche Natural;Lanches;1;24,00
+V0111;1;Mocha;Café;4;9,50
+V0112;1;Brownie;Doces;3;11,50
+V0112;2;Torrada;Lanches;1;28,00
+V0113;1;Torrada;Lanches;2;25,50
+V0113;2;Cappuccino;Café;4;16,50
+V0113;3;Mocha;Café;1;13,00
+V0114;1;Mocha;Café;4;15,50
+V0114;2;Café Coado;Café;3;10,00
+V0114;3;Torta de Limão;Doces;1;11,00
+V0115;1;Cappuccino;Café;1;13,00
+V0115;2;Limonada;Bebidas;3;10,50
+V0116;1;Espresso;Café;4;16,00
+V0116;2;Pão de Queijo;Lanches;2;19,50
+V0116;3;Mocha;Café;2;11,50
+V0117;1;Grão Especial 250g;Grãos;2;67,50
+V0117;2;Croissant;Lanches;3;16,00
+V0117;3;Mocha;Café;3;16,00
+V0118;1;Mocha;Café;3;17,50
+V0118;2;Café Coado;Café;2;10,00
+V0119;1;Pão de Queijo;Lanches;2;30,00
+V0119;2;Água com Gás;Bebidas;4;13,50
+V0119;3;Torrada;Lanches;2;23,50
+V0119;4;Espresso;Café;2;10,50
+V0119;5;Suco de Laranja;Bebidas;3;15,00
+V0119;6;Espresso;Café;4;11,00
+V0120;1;Brownie;Doces;2;18,50
+V0120;2;Café Coado;Café;2;11,00
+V0120;3;Bolo de Cenoura;Doces;2;13,00
+V0120;4;Croissant;Lanches;2;24,50
+V0120;5;Bolo de Cenoura;Doces;4;17,50
+V0120;6;Bolo de Cenoura;Doces;2;11,00
+V0121;1;Latte;Café;4;12,00
+V0121;2;Suco de Laranja;Bebidas;3;13,50
+V0121;3;Espresso;Café;3;10,00
+V0121;4;Cappuccino;Café;4;17,00
+V0121;5;Água com Gás;Bebidas;3;17,00
+V0121;6;Sanduíche Natural;Lanches;3;15,50
+V0122;1;Mocha;Café;4;16,00
+V0122;2;Latte;Café;2;15,50
+V0123;1;Mocha;Café;1;18,50
+V0123;2;Grão Moído 1kg;Grãos;1;69,00
+V0123;3;Brownie;Doces;4;15,00
+V0123;4;Café Coado;Café;3;18,50
+V0124;1;Latte;Café;2;14,00
+V0124;2;Latte;Café;4;12,00
+V0124;3;Brownie;Doces;3;8,00
+V0125;1;Latte;Café;1;10,00
+V0125;2;Suco de Laranja;Bebidas;4;10,50
+V0126;1;Bolo de Cenoura;Doces;2;10,00
+V0126;2;Cappuccino;Café;2;10,00
+V0126;3;Latte;Café;2;18,00
+V0127;1;Bolo de Cenoura;Doces;1;18,00
+V0127;2;Cookie;Doces;3;15,50
+V0127;3;Torta de Limão;Doces;2;9,50
+V0128;1;Sanduíche Natural;Lanches;1;20,00
+V0128;2;Latte;Café;1;14,50
+V0128;3;Espresso;Café;3;15,00
+V0128;4;Cappuccino;Café;4;16,00
+V0128;5;Café Coado;Café;4;10,50
+V0129;1;Suco de Laranja;Bebidas;4;12,00
+V0129;2;Chá Gelado;Bebidas;2;12,00
+V0129;3;Grão Torrado 500g;Grãos;2;49,50
+V0130;1;Latte;Café;3;12,00
+V0130;2;Chá Gelado;Bebidas;1;8,00
+V0130;3;Sanduíche Natural;Lanches;3;18,00
+V0131;1;Grão Torrado 500g;Grãos;2;59,50
+V0131;2;Cappuccino;Café;3;14,00
+V0131;3;Mocha;Café;3;12,00
+V0132;1;Croissant;Lanches;2;17,00
+V0132;2;Pão de Queijo;Lanches;3;29,50
+V0132;3;Espresso;Café;4;12,50
+V0133;1;Grão Especial 250g;Grãos;1;38,50
+V0134;1;Chá Gelado;Bebidas;4;9,00
+V0134;2;Chá Gelado;Bebidas;4;14,50
+V0134;3;Bolo de Cenoura;Doces;1;15,50
+V0134;4;Sanduíche Natural;Lanches;3;15,00
+V0134;5;Croissant;Lanches;2;15,50
+V0134;6;Café Coado;Café;2;17,00
+V0134;7;Torta de Limão;Doces;2;17,50
+V0135;1;Limonada;Bebidas;3;10,50
+V0135;2;Torrada;Lanches;2;18,50
+V0135;3;Sanduíche Natural;Lanches;3;24,00
+V0135;4;Água com Gás;Bebidas;1;16,50
+V0135;5;Croissant;Lanches;3;14,50
+V0136;1;Cappuccino;Café;4;11,00
+V0136;2;Espresso;Café;4;9,50
+V0136;3;Chá Gelado;Bebidas;1;13,50
+V0137;1;Grão Especial 250g;Grãos;2;36,50
+V0137;2;Espresso;Café;1;16,00
+V0137;3;Sanduíche Natural;Lanches;3;17,50
+V0137;4;Cookie;Doces;2;12,50
+V0137;5;Latte;Café;3;18,50
+V0138;1;Água com Gás;Bebidas;3;12,00
+V0138;2;Cappuccino;Café;4;16,50
+V0139;1;Cookie;Doces;2;13,50
+V0139;2;Torta de Limão;Doces;4;13,50
+V0139;3;Grão Moído 1kg;Grãos;1;69,00
+V0139;4;Croissant;Lanches;1;14,00
+V0140;1;Espresso;Café;2;16,50
+V0140;2;Cappuccino;Café;1;11,00
+V0140;3;Grão Torrado 500g;Grãos;2;62,00
+V0141;1;Croissant;Lanches;3;22,00
+V0141;2;Café Coado;Café;1;14,50
+V0141;3;Brownie;Doces;3;12,00
+V0141;4;Água com Gás;Bebidas;4;18,00
+V0142;1;Grão Especial 250g;Grãos;2;60,00
+V0142;2;Suco de Laranja;Bebidas;3;10,00
+V0142;3;Bolo de Cenoura;Doces;1;12,00
+V0143;1;Grão Torrado 500g;Grãos;1;48,00
+V0143;2;Pão de Queijo;Lanches;2;18,00
+V0143;3;Espresso;Café;2;16,00
+V0143;4;Cappuccino;Café;4;17,50
+V0143;5;Torrada;Lanches;2;16,50
+V0144;1;Cappuccino;Café;1;10,00
+V0144;2;Torrada;Lanches;3;28,00
+V0145;1;Brownie;Doces;3;12,50
+V0145;2;Brownie;Doces;4;10,50
+V0146;1;Suco de Laranja;Bebidas;1;11,50
+V0147;1;Pão de Queijo;Lanches;2;15,50
+V0148;1;Torrada;Lanches;1;27,00
+V0148;2;Cappuccino;Café;1;16,00
+V0148;3;Latte;Café;4;12,00
+V0149;1;Cappuccino;Café;4;9,00
+V0149;2;Limonada;Bebidas;3;13,00
+V0149;3;Mocha;Café;2;19,00
+V0149;4;Latte;Café;4;14,50
+V0149;5;Bolo de Cenoura;Doces;1;12,50
+V0150;1;Croissant;Lanches;3;23,50
+V0150;2;Limonada;Bebidas;2;10,50
