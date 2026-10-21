@@ -185,7 +185,7 @@ python -m pip install --upgrade pip
 Agora vamos instalar as bibliotecas que nossos scripts precisam:
 
 ```bash
-pip install pandas>=2.0 sqlalchemy>=2.0 psycopg2-binary>=2.9 matplotlib>=3.7 python-dotenv>=1.0 jupyter>=1.0
+pip install pandas sqlalchemy psycopg2-binary matplotlib python-dotenv jupyter
 ```
 
 **O que cada pacote faz:**
